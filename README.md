@@ -1,4 +1,4 @@
-### TaxWise is a website that helps people ask questions about tax documents and official tax information and can get up to date information.
+### TaxWise helps people ask questions about tax documents and official tax information and can get up to date information.
  
 #### TaxWise AI is a source-aware Indian tax research assistant built with Next.js, TypeScript, Supabase/PostgreSQL, and Groq’s Llama 3.3 70B. It helps users understand uploaded tax PDFs, explore a curated library of official tax documents, calculate indicative tax liability, and verify time-sensitive information using trusted government sources. The application is intended for education and research, not personal tax, legal, or financial advice.
 
