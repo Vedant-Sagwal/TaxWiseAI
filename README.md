@@ -10,8 +10,10 @@
 
 ####  TaxWise also includes a protected evaluation workflow for measuring Recall@5, answer faithfulness, and answer relevance. This makes it possible to compare lexical and hybrid retrieval experimentally and report measured improvements rather than assumed quality gains.
 
-![Some Images](./images/Screenshot 2026-08-09 at 10.06.19 PM.png)
-
-![Some More Images](./images/Screenshot 2026-08-09 at 10.06.39 PM.png)
-
-![Some More Images](./images/Screenshot 2026-08-09 at 10.06.48 PM.png)
+<table>
+  <tr>
+    <td><img src="./images/Screenshot 2026-08-09 at 10.06.19 PM.png" width="300" alt="Screenshot 1"></td>
+    <td><img src="./images/Screenshot 2026-08-09 at 10.06.39 PM.png" width="300" alt="Screenshot 2"></td>
+    <td><img src="./images/Screenshot 2026-08-09 at 10.06.48 PM.png" width="300" alt="Screenshot 2"></td>
+  </tr>
+</table>
