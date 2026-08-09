@@ -12,8 +12,11 @@
 
 <table>
   <tr>
-    <td><img src="./images/Screenshot 2026-08-09 at 10.06.19 PM.png" width="300" alt="Screenshot 1"></td>
-    <td><img src="./images/Screenshot 2026-08-09 at 10.06.39 PM.png" width="300" alt="Screenshot 2"></td>
-    <td><img src="./images/Screenshot 2026-08-09 at 10.06.48 PM.png" width="300" alt="Screenshot 2"></td>
+    <td><img src="./images/Screenshot 2026-08-09 at 10.06.19 PM.png" width="1200" alt="Screenshot 1"></td>
+  </tr>
+  <tr>
+    <td><img src="./images/Screenshot 2026-08-09 at 10.06.39 PM.png" width="1200" alt="Screenshot 2"></td>
+  </tr>
+    <td><img src="./images/Screenshot 2026-08-09 at 10.06.48 PM.png" width="1200" alt="Screenshot 3"></td>
   </tr>
 </table>
