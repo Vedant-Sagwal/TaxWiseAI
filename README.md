@@ -9,3 +9,9 @@
 ####  The application maintains two retrieval scopes. Private uploads are isolated to the user session and are queried explicitly with the syntax @ question /, preventing accidental use of sensitive documents. Normal questions search a shared, admin-curated library of official CBDT circulars, Finance Acts, rules, notifications, and ITR instructions.  Shared-library answers cite the document title, original official URL, publication date, and relevant page number.
 
 ####  TaxWise also includes a protected evaluation workflow for measuring Recall@5, answer faithfulness, and answer relevance. This makes it possible to compare lexical and hybrid retrieval experimentally and report measured improvements rather than assumed quality gains.
+
+![Some Images](./images/Screenshot 2026-08-09 at 10.06.19 PM.png)
+
+![Some More Images](./images/Screenshot 2026-08-09 at 10.06.39 PM.png)
+
+![Some More Images](./images/Screenshot 2026-08-09 at 10.06.48 PM.png)
